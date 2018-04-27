@@ -4,7 +4,7 @@
 	<artifactId>jrimum-domkee</artifactId>
 	<packaging>jar</packaging>
 	<name>Projeto Domkee</name>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<description>Projeto open source de componentes de software para o domínio de negócios do Brasil.
 </description>
 	<url>http://www.jrimum.org/domkee</url>
@@ -14,13 +14,13 @@
 	</organization>
 	<issueManagement>
 		<system>GitHub</system>
-		<url>http://github.com/eduardowba/domkee/issues</url>
+		<url>http://github.com/hailtonwba/domkee/issues</url>
 	</issueManagement>
 	<scm>
-		<connection>scm:git:git@github.com:eduardowba/domkee.git</connection>
-		<url>scm:git:git@github.com:eduardowba/domkee.git</url>
-		<developerConnection>scm:git:git@github.com:eduardowba/domkee.git</developerConnection>
-		<tag>v1.0.2</tag>
+		<connection>scm:git:git@github.com:hailtonwba/domkee.git</connection>
+		<url>scm:git:git@github.com:hailtonwba/domkee.git</url>
+		<developerConnection>scm:git:git@github.com:hailtonwba/domkee.git</developerConnection>
+		<tag>v1.0.3</tag>
 	</scm>
 	<distributionManagement>
 		<repository>
@@ -95,7 +95,7 @@
 		<dependency>
 			<groupId>org.jrimum</groupId>
 			<artifactId>jrimum-vallia</artifactId>
-			<version>1.0.2</version>
+			<version>1.0.3</version>
 		</dependency>
 		<!--  Test  -->
 		<dependency>
